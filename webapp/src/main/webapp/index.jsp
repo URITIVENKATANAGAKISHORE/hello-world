@@ -3,7 +3,18 @@
     <TITLE>Background Image</TITLE>
   </HEAD>
 
-  <BODY background="background_page.jpg">
+  <STYLE>
+    BODY {
+        background-image: url(background_page.jpg); /*You will specify your image path here.*/
+      -moz-background-size: cover;
+      -webkit-background-size: cover;
+      background-size: cover;
+      background-position: top center !important;
+      background-repeat: no-repeat !important;
+      background-attachment: fixed;
+    }
+  </STYLE> 
+  <BODY>
     <P>
       <h1> Hello, Welcome to Cloud Computing Assignment !!   </h1>
       <h2> Deploying on a kubernetes using ansible for Cloud Computing Assignment </h2>
