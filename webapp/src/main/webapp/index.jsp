@@ -15,7 +15,7 @@
     }
   </STYLE> 
   <BODY>
-    <P>
+    <P align="center">
       <h1> Hello, Welcome to Cloud Computing Assignment !!   </h1>
       <h2> Deploying on a kubernetes using ansible for Cloud Computing Assignment </h2>
       <h2> Glad to see you here </h2>
