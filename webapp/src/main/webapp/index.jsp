@@ -25,7 +25,6 @@ body {
   text-align: center;
 }
 </style>
-
 </head>
 	<body>
 		<div class="text"><h1> Hello, Welcome to Cloud Computing Assignment !!   </h1>
