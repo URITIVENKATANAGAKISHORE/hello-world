@@ -39,8 +39,7 @@ body {
         						// Array of days. 
 					var weekday = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday' ]; 
 					document.write("Today is : " + weekday[myDay]); 
-					document.write("<br/>"); 
-        			
+					document.write("<br/>");
 					// get hour value. 
 					var hours = myDate.getHours(); 
 					var ampm = hours >= 12 ? 'PM' : 'AM'; 
