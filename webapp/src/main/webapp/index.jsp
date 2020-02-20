@@ -36,7 +36,7 @@ body {
 				<script type="text/javascript"> 
 					var myDate = new Date(); 
 					var myDay = myDate.getDay(); 
-        						// Array of days. 
+        				// Array of days. 
 					var weekday = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday' ]; 
 					document.write("Today is : " + weekday[myDay]); 
 					document.write("<br/>");
