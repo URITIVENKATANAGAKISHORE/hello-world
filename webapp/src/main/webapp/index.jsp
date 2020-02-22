@@ -52,7 +52,7 @@ body {
 					document.write("\tCurrent time is : " + myTime); 
 				</script> 
 			  </h2>
-			<h2>Final Submition</h2>
+			<h2>Assignment Completed</h2>
 		</div>
 	</body>
 </html>
